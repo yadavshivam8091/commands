@@ -93,3 +93,8 @@ cd udemy-docker-mastery/
 docker image
 
 docker image ls --
+
+
+to check all installed dependancy
+
+npm list --depth=0
