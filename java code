@@ -1,0 +1,3 @@
+GsonBuilder to create pretty json
+
+String blockchainjson = new GsonBuilder().setPrettyPrinting().create().toJson(blockchain);
